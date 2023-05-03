@@ -1,0 +1,11 @@
+.right-side-container {
+    flex-wrap: wrap;
+   
+}
+.cards {
+    flex: 0 0 33.333333%;
+}
+
+.right-side-ui {
+    display: flex;
+}
